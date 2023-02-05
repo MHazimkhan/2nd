@@ -1,0 +1,24 @@
+
+
+body{
+    text-align: center;
+    margin: 0;
+}
+
+h1{font-size: 5em;
+    font-family: 'Fasthand', cursive;}
+h2{font-size: 3em;}
+
+.house-pic{height: 18.75em;
+width: 18.75em;
+float: left;
+margin: 3em 1em 0 3em;
+
+
+}
+
+.upper-container{
+    
+    padding: 30px;
+    background-color: rgb(97, 230, 221);
+}
